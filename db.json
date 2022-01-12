@@ -182,6 +182,11 @@
       "id": 112,
       "description":"jewelery",
       "imagen": "https://blog.seccionamarilla.com.mx/wp-content/uploads/2018/02/900x675_0012_iStock-155013169-770x578.jpg"
+    },
+    {
+      "id": 113,
+      "description":"jackets",
+      "imagen": "https://image.shutterstock.com/image-photo/classic-black-leather-bikers-jacket-260nw-529695178.jpg"
     }
  ],
  "cart":[]
